@@ -23,8 +23,9 @@
         const objeto = new Object; 
     ```
 
-- Método **Object.create** API.
+- Método **Object.create** API:
 
+    Nesse método criamo um objeto apartir de um objeto criado.
     ```js
         const objeto = Object.create(null);
     ```
