@@ -52,7 +52,7 @@
         const chave2 = 'Páginas';
         const book = {};
         
-        const book[chave1] = 'Clean Code'; // A sintax requer que coloquemos a variável entre colchetes[chave1], assim o interpretador entende que precisarar pegar o valor da variável 'chave1' que é 'Título.
+        const book[chave1] = 'Clean Code'; // A sintax requer que coloquemos a variável entre colchetes [chave1], assim o interpretador entende que precisarar pegar o valor da variável 'chave1' que é 'Título.
         const book[chave2] = 464;
         
         console.log(book) // saída: { 'Título': 'Clean Code', 'Páginas': 464 }
